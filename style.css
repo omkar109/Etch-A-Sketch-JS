@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    border:1px ;
+}
+.container{
+    display:flex;
+    flex-wrap:wrap;
+}
+.childDiv{
+    padding:0px;
+    margin:0px;
+    flex:none;
+}
+
